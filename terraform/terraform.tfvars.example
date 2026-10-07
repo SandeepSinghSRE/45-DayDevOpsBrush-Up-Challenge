@@ -1,0 +1,4 @@
+image_name      = "node-terraform-demo:local"
+container_name  = "node-terraform-demo"
+host_port       = 3000
+app_environment = "production"
